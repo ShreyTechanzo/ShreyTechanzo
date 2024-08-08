@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working at Techanzo Pvt Ltd.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NextJS/TS
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with Linux
 - 💬 Ask me about Anything
