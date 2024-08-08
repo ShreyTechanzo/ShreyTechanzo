@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with Linux
 - 💬 Ask me about Anything
 - 📫 How to reach me: shrey.techanzo@gmail.com
-- 😄 Pronouns: He/Him
  <!-- - ⚡ Fun fact: ... -->
